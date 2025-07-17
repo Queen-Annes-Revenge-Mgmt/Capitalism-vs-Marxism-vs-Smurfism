@@ -75,7 +75,10 @@ PROMPTS
 ### Is it Realistic to think Marxism could ever take over in America:
 
 
-    Given the current United states trump republican administration, ICE, and a looming class war on the horizon, how likely would it be for Marxism to replace united states current system and gain mainstream traction? Please use all updated resources and provide percentage values within your conclusions.
+    Given the current United states trump republican administration, ICE, and a looming class war on
+    the horizon, how likely would it be for Marxism to replace united states current system and gain 
+    mainstream traction? Please use all updated resources and provide percentage values within 
+    your conclusions.
 
 >
 > 🔮 Summary Outlook
@@ -91,7 +94,12 @@ PROMPTS
 ---
 ### Assume Marxism took over in the united states, do slumlords still exist
 
-    Let's assume Marxism took over in the united states everywhere. In this example, do slumlords still exist? Or has this new system removed the greed factor Capitalism creates through self gain? Is there any chance for bad actors within the city housing inspectors to make decisions solely for personal gain, say payments from a landlord to look the other way? Does greed as a human emotion doesn't disappear because the system changed?
+    Let's assume Marxism took over in the united states everywhere. In this example, do 
+    slumlords still exist? Or has this new system removed the greed factor Capitalism 
+    creates through self gain? Is there any chance for bad actors within the city housing 
+    inspectors to make decisions solely for personal gain, say payments from a landlord to 
+    look the other way? Does greed as a human emotion doesn't disappear because the 
+    system changed?
 
 >
 > 🏘️ In a Marxist U.S., Do Slumlords Still Exist?
@@ -122,7 +130,10 @@ PROMPTS
     
     https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-    Under this new Marxist America, could the situations outlined in this document happen again to a family with little money? It sounds like under this system housing inspection policies could be left to the interpretation of inspectors that could be biased due to greed. is that true?
+    Under this new Marxist America, could the situations outlined in this document 
+    happen again to a family with little money? It sounds like under this system 
+    housing inspection policies could be left to the interpretation of inspectors 
+    that could be biased due to greed. is that true?
 
 >
 > 🏗️ Would This be Possible in a Marxist System?
@@ -183,7 +194,8 @@ Under Marxism, how would a former "lower class" renter make changes to a housing
 ---
 ### WTF is "Smurfism"?
 
-    Please describe to the form of democracy the Smurfs adhere to, in a short but concise manner. Please provide an example.
+    Please describe to the form of democracy the Smurfs adhere to, in a short 
+    but concise manner. Please provide an example.
 
 >
 > 🎯 Result:
@@ -197,7 +209,11 @@ Under Marxism, how would a former "lower class" renter make changes to a housing
 ---
 ### Is it Realistic to think Smurfism could ever take over in America:
 
-    Given the current United states trump republican administration, ICE, and a looming class war on the horizon, how likely would it be for Smurfism to replace united states current system and gain mainstream traction? If "Smurfism" were real. Please use all updated resources and provide percentage values within your conclusions.
+    Given the current United states trump republican administration, ICE, and 
+    a looming class war on the horizon, how likely would it be for Smurfism to 
+    replace united states current system and gain mainstream traction? If "Smurfism" 
+    were real. Please use all updated resources and provide percentage values 
+    within your conclusions.
 
 >
 > 🎯 Result:
@@ -218,7 +234,11 @@ Under Marxism, how would a former "lower class" renter make changes to a housing
     
     https://github.com/Queen-Annes-Revenge-Mgmt/The-Eviction-Loophole
 
-    Let's assume Smurfism broke out across America, could the situations outlined in this document happen again to a family with little money in one of these Smurf "villages"? It sounds like under this system housing inspection policies would not be left to the interpretation of inspectors that could be biased due to greed.Is that true?
+    Let's assume Smurfism broke out across America, could the situations outlined 
+    in this document happen again to a family with little money in one of these 
+    Smurf "villages"? It sounds like under this system housing inspection policies
+    would not be left to the interpretation of inspectors that could be biased 
+    due to greed.Is that true?
 
 >
 > 🏠 Summing it up
@@ -251,15 +271,22 @@ Under Marxism, how would a former "lower class" renter make changes to a housing
 >
 <br />
 
-    Neither system offers a viable path forward, as the odds of successfully implementing them are too low. Worse still, the underlying issues between class and wealth remain—they're just redefined. Class becomes tied to perceived wealth at any given moment, making it just as influential and exclusionary as before.
+    Neither system offers a viable path forward, as the odds of successfully 
+    implementing them are too low. Worse still, the underlying issues between 
+    class and wealth remain—they're just redefined. Class becomes tied to 
+    perceived wealth at any given moment, making it just as influential 
+    and exclusionary as before.
 
     A few key truths:
 
-    - No system guarantees success just by being implemented. Culture, power, and enforcement shape the outcome.
+    - No system guarantees success just by being implemented. Culture, 
+    power, and enforcement shape the outcome.
 
-    - Class and wealth remain linked, often through perception (status, assets, influence), not just income.
+    - Class and wealth remain linked, often through perception (status, 
+    assets, influence), not just income.
 
-    - Inequality can resurface even in systems designed to eliminate it, if power structures adapt.
+    - Inequality can resurface even in systems designed to eliminate 
+    it, if power structures adapt.
 
 <p>
 <a id="Merch-booth"></a>

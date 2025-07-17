@@ -295,12 +295,12 @@ Under Marxism, how would a former "lower class" renter make changes to a housing
 <br />
 
 ---
-MERCH BOOTH
+MERCH BOOTH 👕🛍️
 ---
 
 <br />
 
-[Commu Smurf Shirt](https://hellsmark-2.creator-spring.com/listing/commu-smurf-shirt)
+- 🛒 [Commu Smurf Shirt](https://hellsmark-2.creator-spring.com/listing/commu-smurf-shirt)
 
 <br />
 
@@ -317,7 +317,7 @@ MERCH BOOTH
 
 <br />
 
-[\"I tried to install Marxism and all I got was this lousy T-shirt\" Shirt](https://hellsmark-2.creator-spring.com/listing/lousy-marxism-t-shirt)
+- 🛒 [\"I tried to install Marxism and all I got was this lousy T-shirt\" Shirt](https://hellsmark-2.creator-spring.com/listing/lousy-marxism-t-shirt)
 
 <br />
 

@@ -302,9 +302,9 @@ MERCH BOOTH
 
 [Commu Smurf Shirt](https://hellsmark-2.creator-spring.com/listing/commu-smurf-shirt)
 
-<br/>
+<br />
 
-<div>https://hellsmark-2.creator-spring.com/listing/commu-smurf-shirt
+<div>
 <center>
     <a href="https://hellsmark-2.creator-spring.com/listing/commu-smurf-shirt" target="_blank">
         <img src="assets/commu-smurf-shirt.JPG"

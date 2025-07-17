@@ -267,7 +267,7 @@ Under Marxism, how would a former "lower class" renter make changes to a housing
 <br />
 
 >
-> We're fucked either regardless, as class and wealth remain linked. 
+> We're fucked either way, as class and wealth remain linked. 
 >
 <br />
 
